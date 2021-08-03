@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="104c7195-646c-4368-aed1-c0957adc91d4" name="sh30" url="http://10.5.30.231">
+        <fileTransfer rootFolder="/lustrenew/share/zhangyinqi" host="10.5.30.231" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="84d94342-fc4a-4a28-b0aa-30f351804d9d" name="sh1986" url="http://10.198.6.31">
+        <fileTransfer rootFolder="/lustre/zhangyinqi" host="10.198.6.31" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="231b02c5-446c-46fd-9916-99b3b749e98a" name="sh1988" url="http://10.198.8.31">
+        <fileTransfer rootFolder="/lustre/zhangyinqi" host="10.198.8.31" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
