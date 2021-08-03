@@ -1,3 +1,3 @@
-# irfanICMLL.github.io
+# Inch.github.io
 My online resume
 
